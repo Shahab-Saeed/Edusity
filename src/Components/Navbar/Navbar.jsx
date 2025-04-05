@@ -1,5 +1,5 @@
 import React from 'react'
-import './navbar.css'
+import './Navbar.css'
 import edustitylogo from "../../assets/logo.png"
 import { useState } from 'react'
 import { useEffect } from 'react'
