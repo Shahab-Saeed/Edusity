@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+ 
+
+}
+
+.btn{
+    background: #fff;
+    color: #212121;
+    padding: 10px 25px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn img{
+    width: 20px;
+    margin-left: 10px;
+}
+
+.btn.darkbtn{
+    background: #212EA0;
+    color: #fff;
+}
+
