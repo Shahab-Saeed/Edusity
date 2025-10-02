@@ -21,7 +21,7 @@ const App = () => {
     <Title subtitle="GALLERY" title="Campus Photos"/>
     <Campus/>
     <Title subtitle="TESTIMONIALS" title="What STudent Says"/>
-    {/* <Testimonials/> */}
+    <Testimonials/>
     <Title subtitle="CONTACT Us" title="Get In Touch"/>
     <Contact/>
     <Footer/>
